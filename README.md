@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://william-perret.fr" target="_blank">
-  <img src="https://william-perret.fr/images/logo_color_nb.png" alt="Logo William Perret" width="90" height="90" />
+  <img src="https://william-perret.fr/images/logo_color_nb.png" alt="Logo William Perret" width="140" height="77" />
 </a>
 
 # William PERRET
