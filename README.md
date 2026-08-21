@@ -1,6 +1,10 @@
 <div align="center">
 
-# William Perret
+<a href="https://william-perret.fr" target="_blank">
+  <img src="https://william-perret.fr/images/logo_color_nb.png" alt="Logo William Perret" width="90" height="90" />
+</a>
+
+# William PERRET
 ### Développeur Web Full-Stack & Freelance
 
 Passionné par l'écosystème **TypeScript**, je conçois des applications web performantes, scalables et soignées, du design système jusqu'à l'architecture serveur.
