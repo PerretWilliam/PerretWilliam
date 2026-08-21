@@ -5,9 +5,9 @@
 </a>
 
 # William PERRET
-### Développeur Web Full-Stack & Freelance
+### Étudiant-Ingénieur à l'UTC · Apprenti chez Safran
 
-Passionné par l'écosystème **TypeScript**, je conçois des applications web performantes, scalables et soignées, du design système jusqu'à l'architecture serveur.
+Passionné par l'informatique et les architectures logicielles modernes, je prépare mon diplôme d'ingénieur à l'**Université de Technologie de Compiègne (UTC)** tout en développant mes compétences en alternance au sein du groupe **Safran**.
 
 <br/>
 
@@ -19,19 +19,19 @@ Passionné par l'écosystème **TypeScript**, je conçois des applications web p
 
 ---
 
-### ⚡ Ce que j'apporte
+### 🚀 Parcours & Focus
 
-- **Frontend moderne & réactif** : Interfaces ultra-rapides, accessibles et responsive (Next.js, React, Tailwind CSS).
-- **Backend & APIs robustes** : Architectures modulaires, microservices ou monolithiques (Node.js, NestJS, Express).
-- **Gestion de données fiable** : Modélisation, optimisation SQL et typage strict (PostgreSQL, Supabase, Drizzle, Prisma).
-- **Qualité de code** : Typage end-to-end (TypeScript), maintenabilité et intégration continue (Docker, Git).
+- 🎓 **Formation** : Ingénierie Informatique à l'**UTC** (Université de Technologie de Compiègne).
+- ✈️ **Alternance** : Apprenti Ingénieur chez **Safran**.
+- 💻 **Centres d'intérêt** : Développement logiciel, écosystème TypeScript/Web, conception de systèmes robustes et architectures logicielles.
 
 ---
 
-### 🛠️ Stack Technique
+### 🛠️ Stack & Technologies
 
 ```text
-Frontend  │ TypeScript · React · Next.js · TanStack Query · TailwindCSS
+Languages │ TypeScript · JavaScript · SQL
+Frontend  │ React · Next.js · TanStack Query · TailwindCSS
 Backend   │ Node.js · NestJS · Express · REST APIs
 Database  │ PostgreSQL · Supabase · Prisma · Drizzle ORM
-DevOps    │ Docker · Git / GitHub · Cloudinary
+DevOps    │ Git / GitHub · Docker · Cloudinary
