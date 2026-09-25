@@ -1,9 +1,9 @@
 <div align="center">
 
 # William PERRET
-### Étudiant-Ingénieur à l'UTC · Apprenti chez Safran
+### Computer Engineering Student at UTC · Apprentice at Safran
 
-Passionné par l'informatique et les architectures logicielles modernes, je prépare mon diplôme d'ingénieur à l'**Université de Technologie de Compiègne (UTC)** tout en développant mes compétences en alternance au sein du groupe **Safran**.
+Passionate about computer science and modern software architectures, I am pursuing my engineering degree at the **Université de Technologie de Compiègne (UTC)** while sharpening my skills as an apprentice at **Safran**.
 
 <br/>
 
@@ -15,15 +15,15 @@ Passionné par l'informatique et les architectures logicielles modernes, je pré
 
 ---
 
-### 🚀 Parcours & Focus
+### 🚀 Background & Focus
 
-- 🎓 **Formation** : Ingénierie Informatique à l'**UTC** (Université de Technologie de Compiègne).
-- ✈️ **Alternance** : Apprenti Ingénieur chez **Safran**.
-- 💻 **Centres d'intérêt** : Développement logiciel, écosystème TypeScript/Web, conception de systèmes robustes et architectures logicielles.
+- 🎓 **Education**: Computer Science & Engineering at **UTC** (Université de Technologie de Compiègne).
+- ✈️ **Apprenticeship**: Software Engineering Apprentice at **Safran**.
+- 💻 **Interests**: Software development, TypeScript/Web ecosystem, robust systems design, and software architecture.
 
 ---
 
-### 🛠️ Stack & Technologies
+### 🛠️ Tech Stack & Tools
 
 ```text
 Languages │ TypeScript · JavaScript · SQL
